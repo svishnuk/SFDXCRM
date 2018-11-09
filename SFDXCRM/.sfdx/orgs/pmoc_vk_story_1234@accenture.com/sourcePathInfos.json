@@ -1,0 +1,413 @@
+[
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm",
+        {
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541759551384,
+            "changeTime": 1541759551384,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main",
+        {
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541759551384,
+            "changeTime": 1541759551384,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1541761343789,
+            "changeTime": 1541761343789,
+            "contentHash": "6b632b58a0ebcd5ec3714603f59138f4f084c644"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541759551388,
+            "changeTime": 1541759551388,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM",
+        {
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541760859950,
+            "changeTime": 1541760859950,
+            "contentHash": "65d6f6a82fd47ec5bc00855d0e32b935d8d3d6ab",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Order-vlocity_cmt__Order %28Vlocity XOM%29 Layout V4.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Order-vlocity_cmt__Order %28Vlocity XOM%29 Layout V4.layout-meta.xml",
+            "isDirectory": false,
+            "size": 7794,
+            "modifiedTime": 1541760871505,
+            "changeTime": 1541760871505,
+            "contentHash": "beef609e73d8ba0dbc732f5d2f65ac46e8d2b47d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 28498,
+            "modifiedTime": 1541761343832,
+            "changeTime": 1541761343832,
+            "contentHash": "aa50e3f7cfc53b86ca44e0e89d666addea266957"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1541761343786,
+            "changeTime": 1541761343786,
+            "contentHash": "6de8934e96dd2a968bf53e4ad7f358b2b40e6197"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1541760871537,
+            "changeTime": 1541760871537,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\objects\\Account\\fields\\UUID_Of_TheAccount__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\objects\\Account\\fields\\UUID_Of_TheAccount__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 495,
+            "modifiedTime": 1541761343629,
+            "changeTime": 1541761343629,
+            "contentHash": "e3a4c5cd13ddd69826c33d7c83505f08cdb7b22f"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Base Consumer %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Base Consumer %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5839,
+            "modifiedTime": 1541761343639,
+            "changeTime": 1541761343639,
+            "contentHash": "97136afc8ec9ed78d4927cc2d1e7057b57d9e7a2"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Base Service %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Base Service %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6966,
+            "modifiedTime": 1541761343647,
+            "changeTime": 1541761343647,
+            "contentHash": "b7e366b4cfac1565fb4558ad13e2527a7fbdb064"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Business%28Vlocity Telecommunication Services%29 layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Business%28Vlocity Telecommunication Services%29 layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 13168,
+            "modifiedTime": 1541761343660,
+            "changeTime": 1541761343660,
+            "contentHash": "6031ec34dcba2868062e5aec525cb0bfefe769c1"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Console Account %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Console Account %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11992,
+            "modifiedTime": 1541761343668,
+            "changeTime": 1541761343668,
+            "contentHash": "586dd251901b142ed7cc103d971aac04ceb6d65c"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Billing %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Billing %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 12609,
+            "modifiedTime": 1541761343677,
+            "changeTime": 1541761343677,
+            "contentHash": "7208f623b553bf4ff95db1d617193b9e73192ea6"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Billing Aggregator %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Billing Aggregator %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 13599,
+            "modifiedTime": 1541761343692,
+            "changeTime": 1541761343692,
+            "contentHash": "678876d1773f4f0df491bba3037200ae65d62bd4"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Other Account %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Other Account %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8478,
+            "modifiedTime": 1541761343712,
+            "changeTime": 1541761343712,
+            "contentHash": "4f6e7feefb742e325850e21a519b84b26c955f17"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Service %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Service %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9606,
+            "modifiedTime": 1541761343727,
+            "changeTime": 1541761343727,
+            "contentHash": "5f3691a8917b6622e86da64b11fcf1e0c01119ca"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Console Service Account %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Console Service Account %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10958,
+            "modifiedTime": 1541761343734,
+            "changeTime": 1541761343734,
+            "contentHash": "ea179fe758137ce7a526edaa0990858ad19395a1"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Consumer %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Consumer %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 13196,
+            "modifiedTime": 1541761343747,
+            "changeTime": 1541761343747,
+            "contentHash": "23b77f6465d093efdff2c6a21c28d7deec46eb41"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Service Aggregator %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Service Aggregator %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10261,
+            "modifiedTime": 1541761343755,
+            "changeTime": 1541761343755,
+            "contentHash": "62288f752194a38652bb1993c774e5896a8e7ca6"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7629,
+            "modifiedTime": 1541761343763,
+            "changeTime": 1541761343763,
+            "contentHash": "388b08783aee9f9ef26b7c5c516328a24dcc99b2"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Base Business%28Vlocity Telecommunication Services%29 layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Base Business%28Vlocity Telecommunication Services%29 layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6360,
+            "modifiedTime": 1541761343769,
+            "changeTime": 1541761343769,
+            "contentHash": "84a6fa26c4c45518163b8965672ae17d02159e21"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Account %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Account %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11499,
+            "modifiedTime": 1541761343780,
+            "changeTime": 1541761343780,
+            "contentHash": "022885064340601e04be8425eef330e5e09b0aad"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Base Billing %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\layouts\\Account-vlocity_cmt__Base Billing %28Vlocity Telecommunication Services%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6965,
+            "modifiedTime": 1541761343786,
+            "changeTime": 1541761343786,
+            "contentHash": "d747960035f3614b9b3629f655c8f6ecc13d10d2"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\triggers\\UUID_Generate.trigger-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\triggers\\UUID_Generate.trigger-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 178,
+            "modifiedTime": 1541761343797,
+            "changeTime": 1541761343797,
+            "contentHash": "12d084f642d1a7ac8faa5952932bd3dba75c8c9d"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\triggers\\UUID_Generate.trigger",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\triggers\\UUID_Generate.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 356,
+            "modifiedTime": 1541761343801,
+            "changeTime": 1541761343801,
+            "contentHash": "9571402494ebb932d8c2ed97e35fe7716a13241b"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1541761343628,
+            "changeTime": 1541761343628,
+            "contentHash": "2a2c8ce0490f01d763e0b747e6c3c0fb327fe03c"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1541761343619,
+            "changeTime": 1541761343619,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1541761343619,
+            "changeTime": 1541761343619,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\triggers",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vishnu.kumar\\Documents\\SFDX_Projects\\SFDXCRM\\SFDXCRM\\sfdx_crm\\main\\default\\triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1541761343800,
+            "changeTime": 1541761343800,
+            "contentHash": "260004a1c0e4323784261d3a74c5714488e1f1fd"
+        }
+    ]
+]
